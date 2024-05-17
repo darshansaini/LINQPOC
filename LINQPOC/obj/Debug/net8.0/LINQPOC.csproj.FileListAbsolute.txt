@@ -1,0 +1,14 @@
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\bin\Debug\net8.0\LINQPOC.exe
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\bin\Debug\net8.0\LINQPOC.deps.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\bin\Debug\net8.0\LINQPOC.runtimeconfig.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\bin\Debug\net8.0\LINQPOC.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\bin\Debug\net8.0\LINQPOC.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\refint\LINQPOC.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\LINQPOC.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\LINQPOC\LINQPOC\obj\Debug\net8.0\ref\LINQPOC.dll
